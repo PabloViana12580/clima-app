@@ -1,0 +1,12 @@
+.input{
+	top:75%;
+	left:40%;
+	position: absolute;
+}
+
+.boton{
+	border-radius: 20%;
+	padding: 14px 40px;
+	margin-left: 1rem;
+	background-color: #4CAF50;
+}

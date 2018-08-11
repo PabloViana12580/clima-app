@@ -1,0 +1,21 @@
+.fondito{
+	height: 16rem;
+	width: 16rem;
+	float:left;
+	position: absolute;
+    top: 30%;
+    left: 31%;
+    background-image: url('sol.png');
+ 	background-color: #99ccff;
+}
+
+.informacion{
+	height: 16rem;
+	width: 16rem;
+	float:left;	
+	position: absolute;
+    top: 30%;
+    left: 50%;
+    background-color: #ffff66;
+    border: solid;
+}
